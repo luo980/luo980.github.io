@@ -65,3 +65,5 @@ deploy:
   type: git
   repository: https://github.com/luo980/luo980.github.io
   branch: main
+
+#skip_render: README.md
